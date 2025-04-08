@@ -29,6 +29,31 @@ h1 {
 	-webkit-text-fill-color: transparent;
 }
 
+.github-link {
+	position: fixed;
+	bottom: 1rem;
+	right: 1rem;
+	display: inline-block;
+	padding: 0.5rem;
+	background-color: rgba(0, 0, 0, 0.4);
+	border-radius: 50%;
+	z-index: 1000;
+}
+
+.github-link svg {
+	width: 32px;
+	height: 32px;
+	fill: white;
+	display: block;
+}
+
+.follow-text {
+	position: fixed;
+	bottom: 1.5rem;
+	padding: 0.5rem;
+	right: 5rem;
+}
+
 #quote {
 	font-style: italic;
 	font-size: 1.5rem;
