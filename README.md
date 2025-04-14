@@ -19,13 +19,6 @@ This project is a minimalist webpage that displays a rotating quote with develop
 - CSS3
 - JavaScript (Vanilla)
 
-## 📁 Project Structure
-
-/iamacoder
-├── index.html        # Main HTML structure
-├── style.css         # Styling for layout and text
-└── script.js         # Handles interactivity and quote logic
-
 ## 🧩 Future Ideas
 
 - ✨ Smooth animations between quote transitions
